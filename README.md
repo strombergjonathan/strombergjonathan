@@ -1,37 +1,27 @@
-# 👋 Hey there – I'm Jonathan Strömberg
+# 👋 Hi, I'm Jonathan Strömberg
 
-**Java/Vue Full-Stack Engineer | Dual MSc | GovTech Specialist**
+**Full-Stack Developer (Java + Vue.js) | Dual MSc | Swedish Public Sector Systems**
 
 ---
 
-🚀 I build robust, scalable applications for the Swedish public sector – systems that **real people rely on every day**. With 4.5+ years of full-stack experience, I specialize in modernizing legacy workflows, architecting clean codebases, and leading dev teams in complex domains.
+I'm a full-stack developer with 4.5+ years of hands-on experience building modern, scalable web applications for the Swedish public sector. I specialize in replacing legacy systems, building clean and maintainable codebases, and improving real-world workflows with thoughtful backend/frontend architecture.
 
-### 🛠️ Tech I Ship With:
-- **Backend:** Java 8+, Quarkus, REST, Hibernate, DB2, Maven
-- **Frontend:** Vue.js 2/3, TypeScript, HTML/CSS
-- **DevOps:** Jenkins, Git, Docker, OpenShift, Kubernetes, Bitbucket
+### 🔧 Tech Stack
+- **Backend:** Java 17, Quarkus, REST APIs, Hibernate, DB2, Maven
+- **Frontend:** Vue.js 3, TypeScript, HTML5, CSS3
+- **DevOps:** Jenkins, Docker, Kubernetes, OpenShift, Git, Bitbucket
 - **Testing:** JUnit, Mockito, Cucumber (BDD/TDD)
+- **Architecture:** IBM MQ, WebLogic
 
 ---
 
-### 📌 Projects & Impact
-> 💡 Want real-world examples? Check my pinned repos (or hit me up directly).
-
-- Built decision support systems used by thousands of Försäkringskassan employees  
-- Integrated business rules and legal frameworks into secure, high-throughput APIs  
-- Spearheaded automation pipelines that shaved hours off every release cycle  
+### 🎓 Education
+- 🎓 *MSc in Computer & Systems Sciences*, Stockholm University (2021)
+- 🎓 *MSc in Industrial Engineering & Management*, Mid Sweden University (2021)
+- 🌍 Based in Sweden | Fluent in English & Swedish
 
 ---
 
-### 📚 Credentials
-- 🎓 **MSc – Computer & Systems Sciences**, Stockholm University  
-- 🎓 **MSc – Industrial Engineering & Management**, Mid Sweden University  
-- 🇸🇪 Based in Sweden | Fluent in Swedish & English
-
----
-
-### 🤝 Let’s Connect
-- [📎 LinkedIn](https://www.linkedin.com/in/strombergjonathan)
-- 📬 Open to dev chats, collabs, or opportunities in scalable backend/frontend systems
-
----
+### 📬 Connect with Me
+- [💼 LinkedIn](https://www.linkedin.com/in/strombergjonathan)
+- 🤝 Open to collaborations, backend/frontend projects, or impactful GovTech opportunities
